@@ -1,1 +1,4 @@
 É importante que tenha conscioencia sobre ...
+
+
+É preciso cuidado no commite
